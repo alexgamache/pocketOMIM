@@ -1,0 +1,49 @@
+[
+	{
+		"Title": "Down Syndrome",
+		"Entry": "OMIM Entry: #190685",
+		"AKA": "AKA: Trisomy 21",
+		"Contents": [
+			{
+				"Description": "Down syndrome, the most frequent form of mental retardation caused by a microscopically demonstrable chromosomal aberration, is characterized by well-defined and distinctive phenotypic features and natural history. It is caused by triplicate state (trisomy) of all or a critical portion of chromosome 21.",
+				"History":"Garrod (1894) first reported the association between Down syndrome and heart malformation. Abbott (1924) drew attention to the association between AVSD and Down syndrome.\n\nNeri and Opitz (2009) provided a detailed review of the history of the scientific developments leading to the molecular characterization of Down syndrome.\n\nSpeculation about the historic prevalence of Down syndrome has included references to apparent depictions of the syndrome in 15th (Ward, 2004) and 16th (Levitas and Reid, 2003) century paintings. Martinez-Frias (2005) reported what seems likely to be the earliest evidence of the syndrome in a terra-cotta head from approximately 500 AD belonging to the Tolteca culture of Mexico, in which 'it is easy to identify the short palpebral fissures, oblique eyes, midface hypoplasia, and open mouth with macroglossia, findings that clearly define the face of a person with Down syndrome.'\n\nBernal and Briceno (2006) examined pottery artifacts from the Tumaco-La Tolita culture, which existed on the border of present-day Colombia and Ecuador approximately 2,500 years ago, and described several figurines with characteristics suggestive of Down syndrome. Bernal and Briceno (2006) believed these artifacts to be among the earliest artistic representations of disease."
+			}
+		]
+	},
+	{
+		"Title": "Cystic Fibrosis",
+		"Entry": "OMIM Entry: #219700",
+		"AKA": "AKA: Mucoviscidosis",
+		"Description": "Cystic fibrosis (CF) is classically described as a triad of chronic obstructive pulmonary disease, exocrine pancreatic insufficiency, and elevation of sodium and chloride concentration in sweat. Almost all males with CF are infertile due to congenital bilateral absence of the vas deferens. The disorder is associated with decreased longevity."
+	},
+	{
+		"Title": "Sickle Cell Anemia",
+		"Entry": "OMIM Entry: #603903",
+		"AKA": "AKA: Sickle Cell Disease",
+		"Description": "Sickle cell anemia is a multisystem disease associated with episodes of acute illness and progressive organ damage. Hemoglobin polymerization, leading to erythrocyte rigidity and vasoocclusion, is central to the pathophysiology of the disease, but the importance of chronic anemia, hemolysis, and vasculopathy has been established. The most common cause of sickle cell anemia is the HbS variant, with hemoglobin SS disease being most prevalent in Africans."
+	},
+	{
+		"Title": "Marfan Syndrome",
+		"Entry": "OMIM Entry: #154700",
+		"AKA": "AKA: MFS, MFS1",
+		"Description": "A heritable disorder of fibrous connective tissue, Marfan syndrome shows striking pleiotropism and clinical variability. The cardinal features occur in 3 systems--skeletal, ocular, and cardiovascular. It shares overlapping features with congenital contractural arachnodactyly, which is caused by mutation in the FBN2 gene."
+	},
+	{
+		"Title": "Fragile X Syndrome",
+		"Entry": "OMIM Entry: #300624",
+		"AKA": "AKA: Macroorchidism, Martin-Bell Syndrome",
+		"Description": "Fragile X syndrome is characterized by moderate to severe mental retardation, macroorchidism, and distinct facial features, including long face, large ears, and prominent jaw. In most cases, the disorder is caused by the unstable expansion of a CGG repeat in the FMR1 gene and abnormal methylation, which results in suppression of FMR1 transcription and decreased protein levels in the brain."
+	},
+	{
+		"Title": "Huntington Disease",
+		"Entry": "OMIM Entry: #143100",
+		"AKA": "AKA: Huntington Chorea",
+		"Description": "Huntington disease (HD) is an autosomal dominant progressive neurodegenerative disorder with a distinct phenotype characterized by chorea, dystonia, incoordination, cognitive decline, and behavioral difficulties. There is progressive, selective neural cell loss and atrophy in the caudate and putamen. Walker (2007) provided a detailed review of Huntington disease, including clinical features, population genetics, molecular biology, and animal models."
+	},
+	{
+		"Title": "Wilson-Turner Syndrome",
+		"Entry": "OMIM Entry: #309585",
+		"AKA": "AKA: X-Linked Mental Retardation",
+		"Description": "Wilson-Turner syndrome is an X-linked recessive neurologic disorder characterized by intellectual disability, dysmorphic facial features, hypogonadism, short stature, and truncal obesity. Females are unaffected."
+	}
+]
