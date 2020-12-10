@@ -69,6 +69,10 @@ public class InfoActivity extends AppCompatActivity {
 
                 String descriptionString = jsonO.getString("Description");
                 String historyString = jsonO.getString("History");
+                String clinicalString = jsonO.getString("Clinical Features");
+                String diagnosisString = jsonO.getString("Diagnosis");
+                String cytogeneticsString = jsonO.getString("Cytogenetics");
+                String genophenoString = jsonO.getString("Genotype/Phenotype Correlations");
 
             adapter = new CustomAdapter2(this, contentList);
 
@@ -89,6 +93,42 @@ public class InfoActivity extends AppCompatActivity {
             else {
                 ItemsModel2 history = new ItemsModel2("History", historyString);
                 contentList.add(history);
+                adapter.notifyDataSetChanged();
+            }
+
+            if(clinicalString == null || clinicalString.length() == 0) {
+
+            }
+            else {
+                ItemsModel2 clinical = new ItemsModel2("Clinical Features", clinicalString);
+                contentList.add(clinical);
+                adapter.notifyDataSetChanged();
+            }
+
+            if(diagnosisString == null || diagnosisString.length() == 0) {
+
+            }
+            else {
+                ItemsModel2 diagnosis = new ItemsModel2("Diagnosis", diagnosisString);
+                contentList.add(diagnosis);
+                adapter.notifyDataSetChanged();
+            }
+
+            if(cytogeneticsString == null || cytogeneticsString.length() == 0) {
+
+            }
+            else {
+                ItemsModel2 cytogenetics = new ItemsModel2("Cytogenetics", cytogeneticsString);
+                contentList.add(cytogenetics);
+                adapter.notifyDataSetChanged();
+            }
+
+            if(genophenoString == null || genophenoString.length() == 0) {
+
+            }
+            else {
+                ItemsModel2 genopheno = new ItemsModel2("Genotype/Phenotype Correlations", genophenoString);
+                contentList.add(genopheno);
                 adapter.notifyDataSetChanged();
             }
 
